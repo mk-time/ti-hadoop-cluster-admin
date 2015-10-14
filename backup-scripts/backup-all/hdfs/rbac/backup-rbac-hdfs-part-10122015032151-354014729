@@ -1,0 +1,9 @@
+# file: /tmp/de
+# owner: hdfs
+# group: hdfs
+user::rwx
+user:ec2-user1:r--
+group::r-x
+mask::r-x
+other::r-x
+

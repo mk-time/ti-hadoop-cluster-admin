@@ -1,0 +1,3 @@
+user:devuser:r-- /tmp/de/prepod
+group:groudev:r-- /tmp/de/prod
+user:tomadmin:rwx /tmp/de/prod
